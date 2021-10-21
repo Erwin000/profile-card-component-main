@@ -8,14 +8,16 @@ body {
     background-color: hsl(185, 75%, 39%);
     background-image: url(../images/bg-pattern-top.svg);
     background-repeat: no-repeat;
-    background-position: -450px -525px;
+    background-position: -85% 152%;
+    background-size: contain;
 }
 .pattern-bottom {
     width: 100vw;
     height: 100vh;
     background-image: url(../images/bg-pattern-bottom.svg);
     background-repeat: no-repeat;
-    background-position: 500px 330px;
+    background-position: 55vw 55vh;
+    background-size: contain;
 }
 .parent {
     width: 350px;
