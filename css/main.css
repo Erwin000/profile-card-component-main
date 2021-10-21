@@ -8,7 +8,7 @@ body {
     background-color: hsl(185, 75%, 39%);
     background-image: url(../images/bg-pattern-top.svg);
     background-repeat: no-repeat;
-    background-position: -85% 152%;
+    background-position: 0vw -40vh;
     background-size: contain;
 }
 .pattern-bottom {
